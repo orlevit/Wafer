@@ -48,3 +48,28 @@ We kill them because we fear that a physical scratch on the silicon wafer is wha
   <img src="assets/wafer_map_with_marks.png" width="200" height="200">
   <figcaption>Fig.4 - A wafer map in a certain operation with scratch detection marks. good dies in grenn, bad dies in red, scratch in blue, ink in yellow</figcaption>
 </figure>
+
+# Solution
+## Filter by Wafer size, only predict only predict in certain ranges
+<figure>
+  <img src="assets/1.jpg" width="800" height="400">
+  <figcaption></figcaption>
+</figure>
+
+## Flow of the algorithm
+<figure>
+  <img src="assets/2.jpg" width="800" height="400">
+  <figcaption></figcaption>
+</figure>
+
+## Score calculation
+<figure>
+  <img src="assets/3.jpg" width="800" height="400">
+  <figcaption></figcaption>
+</figure>
+
+## Exmaple final Result
+<figure>
+  <img src="assets/4.jpg" width="300" height="400">
+  <figcaption></figcaption>
+</figure>
